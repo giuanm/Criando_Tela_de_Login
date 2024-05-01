@@ -2,6 +2,8 @@
 
 ![image](https://github.com/giuanm/Criando_Tela_de_Login/assets/76171709/d630674b-9aba-49a3-8175-e6c0261d499d)
 
+https://www.youtube.com/watch?v=nl8uMRvdp3M
+
  This project consists of creating a login page using React with TypeScrip for a Login screen with validations for the email and password length fields. When both parameters are met, the data sending button is enabled.
 
 ## Technology 
